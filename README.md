@@ -1,4 +1,2 @@
 # projeto-android
 Projeto Android
-
-
