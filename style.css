@@ -129,8 +129,14 @@ main img {
 }
 
 main img.pequena {
+    border-radius: 10px;
     max-width: 350px;
     margin: auto;
+    display: block;
+}
+
+main img.piquinininha {
+    border-radius: 10px;
     display: block;
 }
 
@@ -144,6 +150,7 @@ div.video {
 }
 
 div.video iframe {
+    border-radius: 10px;
     position: absolute;
     top: 5%;
     left: 5%;
