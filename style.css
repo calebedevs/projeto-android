@@ -35,8 +35,7 @@ header {
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
     min-height: 150px;;
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 5px; 
+    padding-top: 30px;
 }
 
 header h1 {
@@ -53,7 +52,7 @@ header p {
     color: rgba(255, 255, 255, 0.453);
     max-width: 450px;
     margin: auto;
-    margin-bottom: 30px;
+    padding-bottom: 40px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.3);
 }
 
